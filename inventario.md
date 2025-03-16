@@ -14,4 +14,8 @@ Elettronica Padovana
 - AMD Ryzen 9 9950X
 - Intel Core Ultra 7 265KF
 
-/periferiche
+## Periferiche
+/periferiche/tastiere.md
+- HP 460 Tastiera Wireless e Bluetooth 5.3
+- Apple Magic Keyboard con Touch ID e tastierino numerico per Mac con chip Apple 
+
