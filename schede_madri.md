@@ -1,7 +1,6 @@
 2101057 (lorenzo soligo)
 2137999 (pietro giulio bassi)
 
-/schede_madri.md:
 - PRIME Z790-A WIFI
 - ProArt Z790-CREATOR WIFI
 - Pro WS TRX50-SAGE WIFI
