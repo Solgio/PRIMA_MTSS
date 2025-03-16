@@ -12,3 +12,5 @@ Elettronica Padovana
 - Intel Core Ultra 9 285K
 - AMD Ryzen 9 9950X
 - Intel Core Ultra 7 265KF
+
+/periferiche
