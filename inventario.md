@@ -14,4 +14,8 @@ Elettronica Padovana
 - AMD Ryzen 9 9950X
 - Intel Core Ultra 7 265KF
 
-/periferiche
+## Periferiche
+/periferiche/mouse.md
+- Logitech G G203 LIGHTSYN
+- Razer DeathAdder Essential
+- Logitech G G305
